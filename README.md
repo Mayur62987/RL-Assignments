@@ -1,2 +1,2 @@
 # RL-Assignments
-Value iteration and Policy itteration assignment
+Value iteration and Policy iteration assignment
